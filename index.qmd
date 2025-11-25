@@ -7,6 +7,11 @@ format:
 
 embed-resources: true
 lightbox: true
+
+include-in-header:
+    - text: | 
+        <link rel="icon" type="image/x-icon" href="https://picture.wtf/p/rfctxp.ico">
+
 ---
 
 These instructions assume you’re starting from a freshly created Plex account using the web version of Plex. The process is almost identical on most platforms, including mobile and smart TV apps.
