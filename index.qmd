@@ -1,0 +1,43 @@
+---
+title: Plex Setup Instructions
+
+format:
+  html:
+    theme: cyborg
+
+embed-resources: true
+lightbox: true
+---
+
+These instructions assume you’re starting from a freshly created Plex account using the web version of Plex. The process is almost identical on most platforms, including mobile and smart TV apps.
+
+## 1. Accept Server Share Invitation
+- You should have recieved an email invitation, click the link and log in with your Plex account. 
+- If you didn't receive an email let me know.
+
+## 2. Go to “More” to Customize Homepage
+- On the Plex homepage, click the **More** button on the left sidebar to reveal additional libraries and sections. You can now see all available libraries, including those from shared servers.
+
+![Screenshot showing the 'More' button highlighted](https://picture.wtf/p/nUX1EW.png)
+
+## 3. Unpin Default Items (Optional)
+- For a cleaner look, unpin default sections you don’t want by clicking the three-dot (⋮) menu on each and selecting “Unpin from home.” I personally find them annoying on my homepage but this is personal preference.
+
+![Screenshot with default items ready to unpin](https://picture.wtf/p/gWQGdx.png)
+
+- After unpinning, your homepage should look less cluttered.
+
+![Screenshot of homepage with unpinned items](https://picture.wtf/p/MTjb58.png)
+
+## 4. Pin Shared Libraries
+- Under the server: isah (Cereberus)
+- Click the three-dot (⋮) menu next to each library (e.g., Movies, TV Shows) and select “Pin”
+- Pin items in your desired order; they will be displayed on your homepage in the same sequence.
+
+![Screenshot with pinned libraries under shared server](https://picture.wtf/p/GUtomE.png)
+
+## 5. Your Customized Homepage
+- Your homepage should now display only your chosen libraries, in your preferred order.
+- You can always add, remove, or re-order pins later.
+
+![Screenshot of fully customized Plex homepage](https://picture.wtf/p/uwMmS1.png)
